@@ -1,0 +1,16 @@
+.footer {
+  background-color: #6278f7;
+  display: flex; /* coloca as divs lado a lado */
+  justify-content: space-between; /* distribui espaço entre elas */
+  align-items: center; /* alinha verticalmente */
+  padding: 40px; /* espaçamento interno */
+}
+
+.rede-social img {
+  width: 30px;
+  margin-right: 20px;
+}
+
+.creditos {
+  color: #fff;
+}
